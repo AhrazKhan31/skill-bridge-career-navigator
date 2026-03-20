@@ -8,7 +8,7 @@
 
 **Candidate Name:** Ahraz Khan
 
-**Scenario Chosen:** Career Skill Gap Analyzer — a tool that parses a user's resume, identifies missing skills for a target role, and generates a personalized learning roadmap using a multi-agent AI pipeline.
+**Scenario Chosen:** Skill-Bridge Career Navigator — a tool that parses a user's resume, identifies missing skills for a target role, and generates a personalized learning roadmap using a multi-agent AI pipeline.
 
 **Estimated Time Spent:** 6 hours
 
@@ -166,8 +166,10 @@ python tests.py
 
 Tests cover:
 
-- **Happy Path** — Standard resume with clear skills extracts correctly
-- **Edge Case** — Empty resume handled gracefully without crash
+- **Test 1 — Happy Path (AI):** Standard resume with clear skills, verifies AI extracts them correctly
+- **Test 2 — Edge Case (AI):** Empty resume input, verifies AI handles it gracefully without crashing
+- **Test 3 — Fallback Skill Extraction:** Tests rule-based keyword extractor with known skills, no skills, and empty input
+- **Test 4 — Fallback Roadmap Generation:** Tests rule-based roadmap builder with normal gaps, empty gaps, and single skill gap
 
 ---
 
