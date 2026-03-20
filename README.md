@@ -42,19 +42,22 @@
 
 ```
 skill-bridge-career-navigator/
-├── app.py                    # Streamlit frontend + AI runner
-├── Dockerfile                # Container configuration
-├── requirements.txt          # Python dependencies
-├── tests.py                  # Happy path + edge case tests
-├── DESIGN.md                 # Architecture and design decisions
-├── .env.example              # Environment variable template
-├── .gitignore
+├── app.py                          # Streamlit frontend + AI runner
+├── Dockerfile                      # Container configuration
+├── requirements.txt                # Python dependencies
+├── tests.py                        # Happy path + edge case tests
+├── README.md                       # Project documentation
+├── .env.example                    # Environment variable template
+├── .dockerignore                   # Docker build exclusions
+├── .gitignore                      # Git exclusions
 ├── data/
-│   └── job_catalog_sample.csv   # Synthetic dataset sample
+│   ├── synthetic_jobs.csv          # Synthetic jobs dataset
+│   ├── synthetic_jobs.jsonl        # Synthetic jobs dataset (JSONL format)
+│   └── job_catalog_unstructured.txt # Unstructured job catalog data
 └── my_agent/
     ├── __init__.py
-    ├── agent.py              # 4-agent pipeline definition
-    └── .env                  # Local secrets (gitignored)
+    ├── agent.py                    # 4-agent pipeline definition
+    └── .env.example                # Agent env variable template
 ```
 
 ---
