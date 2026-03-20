@@ -103,6 +103,10 @@ The AI initially suggested using `parser_agent.call()` to run a single agent in 
 
 **[https://skillbridge-app-537062195130.us-central1.run.app](https://skillbridge-app-537062195130.us-central1.run.app)**
 
+## ▶️ Youtube Demo
+
+**[▶️ YouTube Demo](https://youtu.be/LTOoyt2qjJQ)**
+
 ---
 
 ## 📌 What It Does
