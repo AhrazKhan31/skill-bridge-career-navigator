@@ -16,9 +16,7 @@ from my_agent.agent import parser_agent
 sys.path.insert(0, str(Path(__file__).parent))
 from app import fallback_extract_skills, fallback_roadmap
 
-# ──────────────────────────────────────────────
 # Helper to run a single agent
-# ──────────────────────────────────────────────
 async def run_single_agent(agent, state: dict) -> dict:
     session_service = InMemorySessionService()
     session = await session_service.create_session(
@@ -38,9 +36,7 @@ async def run_single_agent(agent, state: dict) -> dict:
     return final.state
 
 
-# ──────────────────────────────────────────────
 # TEST 1: HAPPY PATH — AI skill extraction
-# ──────────────────────────────────────────────
 async def test_happy_path():
     print("=" * 50)
     print("TEST 1: Happy Path — AI Skill Extraction")
@@ -58,9 +54,7 @@ async def test_happy_path():
         print(f"❌ FAILED with exception: {e}\n")
 
 
-# ──────────────────────────────────────────────
 # TEST 2: EDGE CASE — Empty resume input
-# ──────────────────────────────────────────────
 async def test_edge_case_empty():
     print("=" * 50)
     print("TEST 2: Edge Case — Empty Resume Input")
@@ -73,10 +67,8 @@ async def test_edge_case_empty():
         print(f"❌ FAILED: System crashed on empty input. Error: {e}\n")
 
 
-# ──────────────────────────────────────────────
 # TEST 3: FALLBACK — Skill extraction fallback
 # Tests rule-based extractor when AI is unavailable
-# ──────────────────────────────────────────────
 def test_fallback_skill_extraction():
     print("=" * 50)
     print("TEST 3: Fallback — Rule-Based Skill Extraction")
@@ -107,10 +99,8 @@ def test_fallback_skill_extraction():
         print(f"❌ FAILED (empty input): Got — '{result_blank}'\n")
 
 
-# ──────────────────────────────────────────────
 # TEST 4: FALLBACK — Roadmap generation fallback
 # Tests rule-based roadmap when AI is unavailable
-# ──────────────────────────────────────────────
 def test_fallback_roadmap():
     print("=" * 50)
     print("TEST 4: Fallback — Rule-Based Roadmap Generation")
@@ -139,9 +129,7 @@ def test_fallback_roadmap():
         print(f"❌ FAILED (single gap): Got — '{result_single}'\n")
 
 
-# ──────────────────────────────────────────────
 # MAIN
-# ──────────────────────────────────────────────
 if __name__ == "__main__":
     print("\n🧪 Running SkillBridge Test Suite\n")
 
