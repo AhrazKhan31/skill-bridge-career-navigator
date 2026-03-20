@@ -13,6 +13,7 @@ load_dotenv(dotenv_path=Path(__file__).parent / ".env")
 adc_path = Path.home() / "AppData" / "Roaming" / "gcloud" / "application_default_credentials.json"
 if adc_path.exists():
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = str(adc_path)
+os.environ.setdefault("GOOGLE_GENAI_USE_VERTEXAI", "1")
 
 from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
