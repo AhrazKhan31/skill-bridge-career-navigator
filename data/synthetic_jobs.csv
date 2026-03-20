@@ -1,0 +1,101 @@
+id,role,required_skills,certifications,courses
+1,Cloud Engineer,Terraform; Docker; Python; Google Cloud,Google Professional Cloud Architect,Coursera: Google Cloud Engineering Specialization
+2,Data Scientist,Python; Pandas; Scikit-Learn; SQL,TensorFlow Developer Certificate,Udemy: Data Science Bootcamp
+3,Frontend Developer,React; TypeScript; CSS; Tailwind,Meta Front-End Developer Professional Certificate,Scrimba: The Frontend Developer Career Path
+4,Cybersecurity Analyst,Network Security; SIEM; Wireshark; Linux,CompTIA Security+; Certified Ethical Hacker (CEH),Google Cybersecurity Professional Certificate
+5,Backend Developer,Java; Spring Boot; PostgreSQL; Microservices,Oracle Certified Professional: Java SE,Java Backend Development - Udemy
+6,DevOps Engineer,Jenkins; Kubernetes; Ansible; AWS,AWS Certified DevOps Engineer; CKAD,Mumshad Mannambeth: Kubernetes for the Absolute Beginners
+7,UX/UI Designer,Figma; User Research; Prototyping; Adobe XD,Google UX Design Professional Certificate,Coursera: Foundations of User Experience Design
+8,Data Engineer,Apache Spark; Hadoop; Python; ETL Pipelines,Google Professional Data Engineer,Data Engineering with Databricks
+9,Mobile App Developer (iOS),Swift; SwiftUI; Xcode; CoreData,App Development with Swift Certified User,100 Days of Swift - Hacking with Swift
+10,Product Manager,Agile; Product Roadmap; JIRA; Market Research,Certified Scrum Product Owner (CSPO),Become a Product Manager - Udemy
+11,Machine Learning Engineer,PyTorch; NLP; MLOps; Computer Vision,DeepLearning.AI TensorFlow Developer,Machine Learning Specialization by Andrew Ng
+12,Blockchain Developer,Solidity; Ethereum; Smart Contracts; Web3.js,Certified Blockchain Developer (CBD),Build a Blockchain with Python - Udemy
+13,Database Administrator,SQL Server; Performance Tuning; Backup & Recovery,Azure Database Administrator Associate,Complete SQL Bootcamp - Udemy
+14,SRE (Site Reliability Engineer),Observability; Go; Incident Response; Prometheus,Certified Kubernetes Administrator (CKA),SRE Foundation - DevOps Institute
+15,Full Stack Developer,Node.js; Express; MongoDB; Vue.js,AWS Certified Developer Associate,The Web Developer Bootcamp - Colt Steele
+16,AI Researcher,Calculus; Probability; LaTeX; TensorFlow,NVIDIA Deep Learning Institute Certificate,Fast.ai: Practical Deep Learning for Coders
+17,Project Manager,Budgeting; Risk Management; Stakeholder Management,PMP (Project Management Professional),Google Project Management Certificate
+18,Quality Assurance (QA) Engineer,Selenium; JMeter; Unit Testing; Cucumber,ISTQB Foundation Level,Automation Testing with Selenium - Udemy
+19,Game Developer (Unity),C#; Unity Engine; 3D Modeling; Game Physics,Unity Certified Programmer,Complete C# Unity Game Developer 2D
+20,IoT Engineer,C++; Embedded Systems; MQTT; Raspberry Pi,Microsoft Certified: Azure IoT Developer,IoT Programming with Python - Coursera
+21,Cloud Security Specialist,IAM; CloudTrail; VPC Security; Encryption,CCSP (Certified Cloud Security Professional),Pragmatic Institute: Cloud Security Foundations
+22,Embedded Systems Engineer,RTOS; Microcontrollers; Verilog; UART,Arm Accredited Engineer,Embedded Systems Shape the World - edX
+23,Network Engineer,Cisco IOS; BGP; VPN; Subnetting,CCNA (Cisco Certified Network Associate),Cisco Networking Academy: CCNA 1
+24,Business Analyst,Tableau; Process Mapping; Requirements Gathering,CBAP (Certified Business Analysis Professional),Business Analysis Fundamentals - Udemy
+25,SEO Specialist,Google Analytics; Keyword Research; Link Building,Google Analytics Individual Qualification,Moz Academy: SEO Essentials
+26,Data Analyst,Power BI; Excel VBA; Data Visualization,Microsoft Certified: Power BI Data Analyst,Google Data Analytics Professional Certificate
+27,Scrum Master,Facilitation; Kanban; Servant Leadership,PSM I (Professional Scrum Master),Scrum.org: Scrum Open
+28,Solutions Architect,System Design; Scalability; Cost Optimization,AWS Certified Solutions Architect Associate,Adrian Cantrill: AWS Solutions Architect
+29,Application Security Engineer,SAST/DAST; OWASP Top 10; Code Auditing,OSCP (Offensive Security Certified Professional),Web Security Academy by PortSwigger
+30,Natural Language Processing (NLP) Specialist,Transformers; HuggingFace; Tokenization,DeepLearning.AI AI For Good,NLP Specialization - Coursera
+31,Android Developer,Kotlin; Jetpack Compose; Retrofit,Google Associate Android Developer,Developing Android Apps with Kotlin - Udacity
+32,Technical Writer,Markdown; API Documentation; DITA,STC Technical Communication Professional,Google Technical Writing Course
+33,CRM Consultant,Salesforce; Lead Scoring; Workflows,Salesforce Certified Administrator,Salesforce Trailhead: Admin Beginner
+34,Penetration Tester,Metasploit; Social Engineering; Exploit Development,CompTIA PenTest+,TCM Security: Practical Ethical Hacking
+35,Digital Marketing Manager,PPC; Email Marketing; Content Strategy,HubSpot Content Marketing Certification,Google Digital Garage: Fundamentals of Marketing
+36,Systems Administrator,Active Directory; Powershell; DNS,CompTIA Server+,Microsoft Learn: Windows Server Admin
+37,BI (Business Intelligence) Developer,SSIS; Data Warehousing; DAX,Tableau Desktop Specialist,Data Warehousing for Beginners - Udemy
+38,Big Data Architect,Kafka; Cassandra; Elasticsearch,Cloudera Certified Data Engineer,Big Data Specialization - Coursera
+39,AR/VR Developer,C#; Oculus SDK; Spatial Audio,Unity Certified VR Developer,Circuit Stream: XR Development with Unity
+40,Sales Engineer,Demos; Value Proposition; Technical Sales,PreSales Collective Certification,Mastering Technical Sales - Udemy
+41,IT Auditor,Compliance; COBIT; Risk Assessment,CISA (Certified Information Systems Auditor),ISACA: CISA Exam Prep
+42,Cloud Database Engineer,DynamoDB; Cloud Spanner; Redis,AWS Certified Database Specialty,NoSQL Databases - Coursera
+43,Ethical Hacker,Python Scripting; Kali Linux; Reconnaissance,eJPT (Junior Penetration Tester),The Cyber Mentor: Ethical Hacking
+44,Computer Vision Engineer,OpenCV; YOLO; Image Segmentation,DeepLearning.AI Computer Vision Specialization,PyImageSearch University
+45,Operations Manager,Six Sigma; Lean; Supply Chain,Green Belt Lean Six Sigma,Operations Management - Coursera
+46,Software Architect,Design Patterns; Clean Code; Domain Driven Design,IASA Certified IT Architect,Software Architecture & Design - Udacity
+47,Support Engineer,Troubleshooting; SQL; Linux Commands,ITIL Foundation,Google IT Support Professional Certificate
+48,Cloud Native Developer,Serverless; Lambda; Event-Driven Arch,AWS Certified Developer,AWS Lambda & Serverless - Udemy
+49,Platform Engineer,Terraform; GitOps; ArgoCD,HashiCorp Certified: Terraform Associate,Platform Engineering Fundamentals
+50,Robotics Engineer,ROS; Control Systems; Kinematics,Robotics Software Engineer Nanodegree,Modern Robotics - Coursera
+51,Information Security Manager,ISO 27001; Business Continuity; Governance,CISM (Certified Information Security Manager),CISM Exam Training - Udemy
+52,Mobile App Developer (React Native),JavaScript; Native Modules; Redux,Meta React Native Specialization,React Native: The Practical Guide - Udemy
+53,Quantitative Analyst,C++; Stochastic Calculus; R,CQF (Certificate in Quantitative Finance),Mathematical Methods for Quantitative Finance
+54,Data Privacy Officer,GDPR; CCPA; Privacy Impact Assessment,CIPP/E (Certified Information Privacy Professional),Privacy Law and Data Protection - Coursera
+55,Unity Developer,C#; Shader Graph; Particle Systems,Unity Certified Associate,Unity Game Dev Courses
+56,Customer Success Manager,Churn Analysis; Onboarding; Renewals,Certified Customer Success Manager (CCSM),SuccessHacker: Customer Success Training
+57,Frontend Architect,Micro-Frontends; Performance Optimization; Webpack,FrontEnd Masters: Senior Dev Path,Advanced Frontend Architecture
+58,MLOps Engineer,Kubeflow; MLflow; DVC,Google Cloud Professional ML Engineer,DeepLearning.AI MLOps Specialization
+59,Cyber Threat Intelligence Analyst,OSINT; Malware Analysis; STIX/TAXII,GCTI (GIAC Cyber Threat Intelligence),SANS FOR578: Cyber Threat Intelligence
+60,Site Manager,HSE Compliance; Resource Allocation; AutoCAD,NEBOSH IGC,Construction Management - edX
+61,Content Strategist,CMS; Copywriting; Audience Segmentation,HubSpot Content Marketing,Content Strategy Specialization - Coursera
+62,DevSecOps Engineer,Snyk; Prisma Cloud; Security Pipelines,Certified DevSecOps Professional (CDP),DevSecOps: The Big Picture - Pluralsight
+63,ERP Consultant,SAP S/4HANA; FICO; ABAP,SAP Certified Application Associate,openSAP: Free Software Training
+64,Automation Engineer,PLC Programming; SCADA; HMI,ISA Certified Control Systems Technician,Industrial Automation - Udemy
+65,Systems Engineer,Virtualization; PowerShell; SAN Storage,MCSE: Core Infrastructure,Microsoft Learn: Azure Administrator
+66,Product Marketing Manager,GTM Strategy; Competitive Analysis; Messaging,PMM Alliance Core Certification,Product Marketing Foundations - LinkedIn
+67,Financial Analyst,Excel Modeling; VBA; Financial Statements,CFA Level 1,Corporate Finance Institute: FMVA
+68,Security Architect,Threat Modeling; SABSA; Zero Trust,CISSP-ISSAP,SANS SEC530: Defensible Security Architecture
+69,Big Data Developer,Scala; Flink; Presto,CCP Data Engineer,Apache Flink Training
+70,Motion Designer,After Effects; Cinema 4D; Typography,Adobe Certified Professional,School of Motion: Animation Bootcamp
+71,Cloud Administrator,Resource Monitoring; Auto-scaling; Billing,AWS Certified SysOps Administrator,Cloud Academy: Cloud Administrator Path
+72,Data Warehouse Architect,Snowflake; Redshift; Data Modeling,SnowPro Core Certification,Snowflake Essentials - Udemy
+73,Web3 Engineer,Rust; Solana; NFT Minting,Certified Solana Developer,Learn Solana - Buildspace
+74,Vulnerability Manager,Qualys; Nessus; Remediation,GEVA (GIAC Enterprise Vulnerability Assessor),Cybrary: Vulnerability Management
+75,Reliability Engineer,FMEA; Root Cause Analysis; MTBF,ASQ Certified Reliability Engineer,Reliability Engineering - Udemy
+76,Digital Forensic Analyst,EnCase; FTK Imager; Chain of Custody,CHFI (Computer Hacking Forensic Investigator),SANS FOR500: Windows Forensics
+77,Performance Engineer,LoadRunner; AppDynamics; Profiling,Dynatrace Certified Associate,BlazeMeter University
+78,Infrastructure as Code Engineer,Terraform; CloudFormation; Pulumi,HashiCorp Certified: Terraform Associate,Infrastructure as Code - Pluralsight
+79,App Development Manager,SDLC; People Management; Resource Planning,Certified ScrumMaster (CSM),Engineering Management - Coursera
+80,Supply Chain Analyst,Inventory Management; ERP; Logistics,CSCP (Certified Supply Chain Professional),Supply Chain Management Specialization
+81,NoSQL Developer,Cassandra; CouchDB; Indexing,DataStax Certified Developer,MongoDB University
+82,SOC Analyst,Incident Logging; Phishing Analysis; Log Analysis,Cisco Certified CyberOps Associate,TryHackMe: SOC Level 1
+83,Release Manager,Change Management; Branching Strategies; Version Control,ITIL Release Control,Continuous Delivery - Coursera
+84,Mobile Security Researcher,Reverse Engineering; Frida; ADB,GMOB (GIAC iOS and Android Security),Mobexler: Mobile Security Training
+85,Technical Program Manager,Dependency Tracking; Agile at Scale; Roadmapping,SAFe Agilist Certification,TPM Training - Coursera
+86,UX Researcher,A/B Testing; Card Sorting; Usability Testing,NN/g UX Certification,UX Research - Interaction Design Foundation
+87,Embedded Software Tester,HIL/SIL Testing; LabVIEW; Oscilloscopes,ISTQB Foundation Level - Embedded,Testing Embedded Systems - Udemy
+88,Salesforce Developer,Apex; LWC; SOQL,Salesforce Platform Developer I,Trailhead: Developer Beginner
+89,Big Data Analyst,Hive; Pig; MapReduce,HDP Certified Developer,Big Data Analytics with Spark
+90,Security Consultant,Risk Management; Frameworks; Advisory,CISM,Cybersecurity for Business - Coursera
+91,Computer Network Architect,SD-WAN; Topology Design; Fiber Optics,CCNP Enterprise,Advanced Network Design - Cisco
+92,API Developer,REST; GraphQL; Swagger,Postman API Fundamentals Badge,Designing RESTful APIs - Udacity
+93,Application Support Analyst,Log Monitoring; User Training; Patching,Microsoft Certified: Azure Support Engineer,IT Support Specialization - Coursera
+94,Cloud Migration Architect,Lift and Shift; Refactoring; TCO Analysis,Google Cloud Professional Cloud Architect,Migrating to Google Cloud - Coursera
+95,Quantitative Developer,Python; KDB+; Algorithmic Trading,CFA Investment Foundations,Python for Financial Analysis - Udemy
+96,Systems Integration Engineer,Middleware; XML; JSON; SOAP,MuleSoft Certified Developer,Integration Architect Path - Pluralsight
+97,Cloud Consultant,Client Interaction; Gap Analysis; Cloud Strategy,AWS Certified Cloud Practitioner,Cloud Computing Foundations - edX
+98,Deep Learning Engineer,GANs; LSTMs; Autoencoders,DeepLearning.AI Specialization,Neural Networks and Deep Learning - Andrew Ng
+99,Cyber Operations Specialist,Reverse Engineering; Incident Response; Linux,GCIH (GIAC Certified Incident Handler),TryHackMe: Cyber Defense Path
+100,Digital Transformation Consultant,Agile Transformation; Cloud Adoption; Change Management,Certified Digital Transformation Professional,Digital Transformation - BCG on Coursera

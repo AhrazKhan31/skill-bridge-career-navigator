@@ -1,0 +1,700 @@
+JOB ROLE: Cloud Engineer
+ID: 1
+REQUIRED SKILLS: Terraform, Docker, Python, Google Cloud
+CERTIFICATIONS: Google Professional Cloud Architect
+RECOMMENDED COURSES: Coursera: Google Cloud Engineering Specialization
+------------------------------
+
+JOB ROLE: Data Scientist
+ID: 2
+REQUIRED SKILLS: Python, Pandas, Scikit-Learn, SQL
+CERTIFICATIONS: TensorFlow Developer Certificate
+RECOMMENDED COURSES: Udemy: Data Science Bootcamp
+------------------------------
+
+JOB ROLE: Frontend Developer
+ID: 3
+REQUIRED SKILLS: React, TypeScript, CSS, Tailwind
+CERTIFICATIONS: Meta Front-End Developer Professional Certificate
+RECOMMENDED COURSES: Scrimba: The Frontend Developer Career Path
+------------------------------
+
+JOB ROLE: Cybersecurity Analyst
+ID: 4
+REQUIRED SKILLS: Network Security, SIEM, Wireshark, Linux
+CERTIFICATIONS: CompTIA Security+, Certified Ethical Hacker (CEH)
+RECOMMENDED COURSES: Google Cybersecurity Professional Certificate
+------------------------------
+
+JOB ROLE: Backend Developer
+ID: 5
+REQUIRED SKILLS: Java, Spring Boot, PostgreSQL, Microservices
+CERTIFICATIONS: Oracle Certified Professional: Java SE
+RECOMMENDED COURSES: Java Backend Development - Udemy
+------------------------------
+
+JOB ROLE: DevOps Engineer
+ID: 6
+REQUIRED SKILLS: Jenkins, Kubernetes, Ansible, AWS
+CERTIFICATIONS: AWS Certified DevOps Engineer, CKAD
+RECOMMENDED COURSES: Mumshad Mannambeth: Kubernetes for the Absolute Beginners
+------------------------------
+
+JOB ROLE: UX/UI Designer
+ID: 7
+REQUIRED SKILLS: Figma, User Research, Prototyping, Adobe XD
+CERTIFICATIONS: Google UX Design Professional Certificate
+RECOMMENDED COURSES: Coursera: Foundations of User Experience Design
+------------------------------
+
+JOB ROLE: Data Engineer
+ID: 8
+REQUIRED SKILLS: Apache Spark, Hadoop, Python, ETL Pipelines
+CERTIFICATIONS: Google Professional Data Engineer
+RECOMMENDED COURSES: Data Engineering with Databricks
+------------------------------
+
+JOB ROLE: Mobile App Developer (iOS)
+ID: 9
+REQUIRED SKILLS: Swift, SwiftUI, Xcode, CoreData
+CERTIFICATIONS: App Development with Swift Certified User
+RECOMMENDED COURSES: 100 Days of Swift - Hacking with Swift
+------------------------------
+
+JOB ROLE: Product Manager
+ID: 10
+REQUIRED SKILLS: Agile, Product Roadmap, JIRA, Market Research
+CERTIFICATIONS: Certified Scrum Product Owner (CSPO)
+RECOMMENDED COURSES: Become a Product Manager - Udemy
+------------------------------
+
+JOB ROLE: Machine Learning Engineer
+ID: 11
+REQUIRED SKILLS: PyTorch, NLP, MLOps, Computer Vision
+CERTIFICATIONS: DeepLearning.AI TensorFlow Developer
+RECOMMENDED COURSES: Machine Learning Specialization by Andrew Ng
+------------------------------
+
+JOB ROLE: Blockchain Developer
+ID: 12
+REQUIRED SKILLS: Solidity, Ethereum, Smart Contracts, Web3.js
+CERTIFICATIONS: Certified Blockchain Developer (CBD)
+RECOMMENDED COURSES: Build a Blockchain with Python - Udemy
+------------------------------
+
+JOB ROLE: Database Administrator
+ID: 13
+REQUIRED SKILLS: SQL Server, Performance Tuning, Backup & Recovery
+CERTIFICATIONS: Azure Database Administrator Associate
+RECOMMENDED COURSES: Complete SQL Bootcamp - Udemy
+------------------------------
+
+JOB ROLE: SRE (Site Reliability Engineer)
+ID: 14
+REQUIRED SKILLS: Observability, Go, Incident Response, Prometheus
+CERTIFICATIONS: Certified Kubernetes Administrator (CKA)
+RECOMMENDED COURSES: SRE Foundation - DevOps Institute
+------------------------------
+
+JOB ROLE: Full Stack Developer
+ID: 15
+REQUIRED SKILLS: Node.js, Express, MongoDB, Vue.js
+CERTIFICATIONS: AWS Certified Developer Associate
+RECOMMENDED COURSES: The Web Developer Bootcamp - Colt Steele
+------------------------------
+
+JOB ROLE: AI Researcher
+ID: 16
+REQUIRED SKILLS: Calculus, Probability, LaTeX, TensorFlow
+CERTIFICATIONS: NVIDIA Deep Learning Institute Certificate
+RECOMMENDED COURSES: Fast.ai: Practical Deep Learning for Coders
+------------------------------
+
+JOB ROLE: Project Manager
+ID: 17
+REQUIRED SKILLS: Budgeting, Risk Management, Stakeholder Management
+CERTIFICATIONS: PMP (Project Management Professional)
+RECOMMENDED COURSES: Google Project Management Certificate
+------------------------------
+
+JOB ROLE: Quality Assurance (QA) Engineer
+ID: 18
+REQUIRED SKILLS: Selenium, JMeter, Unit Testing, Cucumber
+CERTIFICATIONS: ISTQB Foundation Level
+RECOMMENDED COURSES: Automation Testing with Selenium - Udemy
+------------------------------
+
+JOB ROLE: Game Developer (Unity)
+ID: 19
+REQUIRED SKILLS: C#, Unity Engine, 3D Modeling, Game Physics
+CERTIFICATIONS: Unity Certified Programmer
+RECOMMENDED COURSES: Complete C# Unity Game Developer 2D
+------------------------------
+
+JOB ROLE: IoT Engineer
+ID: 20
+REQUIRED SKILLS: C++, Embedded Systems, MQTT, Raspberry Pi
+CERTIFICATIONS: Microsoft Certified: Azure IoT Developer
+RECOMMENDED COURSES: IoT Programming with Python - Coursera
+------------------------------
+
+JOB ROLE: Cloud Security Specialist
+ID: 21
+REQUIRED SKILLS: IAM, CloudTrail, VPC Security, Encryption
+CERTIFICATIONS: CCSP (Certified Cloud Security Professional)
+RECOMMENDED COURSES: Pragmatic Institute: Cloud Security Foundations
+------------------------------
+
+JOB ROLE: Embedded Systems Engineer
+ID: 22
+REQUIRED SKILLS: RTOS, Microcontrollers, Verilog, UART
+CERTIFICATIONS: Arm Accredited Engineer
+RECOMMENDED COURSES: Embedded Systems Shape the World - edX
+------------------------------
+
+JOB ROLE: Network Engineer
+ID: 23
+REQUIRED SKILLS: Cisco IOS, BGP, VPN, Subnetting
+CERTIFICATIONS: CCNA (Cisco Certified Network Associate)
+RECOMMENDED COURSES: Cisco Networking Academy: CCNA 1
+------------------------------
+
+JOB ROLE: Business Analyst
+ID: 24
+REQUIRED SKILLS: Tableau, Process Mapping, Requirements Gathering
+CERTIFICATIONS: CBAP (Certified Business Analysis Professional)
+RECOMMENDED COURSES: Business Analysis Fundamentals - Udemy
+------------------------------
+
+JOB ROLE: SEO Specialist
+ID: 25
+REQUIRED SKILLS: Google Analytics, Keyword Research, Link Building
+CERTIFICATIONS: Google Analytics Individual Qualification
+RECOMMENDED COURSES: Moz Academy: SEO Essentials
+------------------------------
+
+JOB ROLE: Data Analyst
+ID: 26
+REQUIRED SKILLS: Power BI, Excel VBA, Data Visualization
+CERTIFICATIONS: Microsoft Certified: Power BI Data Analyst
+RECOMMENDED COURSES: Google Data Analytics Professional Certificate
+------------------------------
+
+JOB ROLE: Scrum Master
+ID: 27
+REQUIRED SKILLS: Facilitation, Kanban, Servant Leadership
+CERTIFICATIONS: PSM I (Professional Scrum Master)
+RECOMMENDED COURSES: Scrum.org: Scrum Open
+------------------------------
+
+JOB ROLE: Solutions Architect
+ID: 28
+REQUIRED SKILLS: System Design, Scalability, Cost Optimization
+CERTIFICATIONS: AWS Certified Solutions Architect Associate
+RECOMMENDED COURSES: Adrian Cantrill: AWS Solutions Architect
+------------------------------
+
+JOB ROLE: Application Security Engineer
+ID: 29
+REQUIRED SKILLS: SAST/DAST, OWASP Top 10, Code Auditing
+CERTIFICATIONS: OSCP (Offensive Security Certified Professional)
+RECOMMENDED COURSES: Web Security Academy by PortSwigger
+------------------------------
+
+JOB ROLE: Natural Language Processing (NLP) Specialist
+ID: 30
+REQUIRED SKILLS: Transformers, HuggingFace, Tokenization
+CERTIFICATIONS: DeepLearning.AI AI For Good
+RECOMMENDED COURSES: NLP Specialization - Coursera
+------------------------------
+
+JOB ROLE: Android Developer
+ID: 31
+REQUIRED SKILLS: Kotlin, Jetpack Compose, Retrofit
+CERTIFICATIONS: Google Associate Android Developer
+RECOMMENDED COURSES: Developing Android Apps with Kotlin - Udacity
+------------------------------
+
+JOB ROLE: Technical Writer
+ID: 32
+REQUIRED SKILLS: Markdown, API Documentation, DITA
+CERTIFICATIONS: STC Technical Communication Professional
+RECOMMENDED COURSES: Google Technical Writing Course
+------------------------------
+
+JOB ROLE: CRM Consultant
+ID: 33
+REQUIRED SKILLS: Salesforce, Lead Scoring, Workflows
+CERTIFICATIONS: Salesforce Certified Administrator
+RECOMMENDED COURSES: Salesforce Trailhead: Admin Beginner
+------------------------------
+
+JOB ROLE: Penetration Tester
+ID: 34
+REQUIRED SKILLS: Metasploit, Social Engineering, Exploit Development
+CERTIFICATIONS: CompTIA PenTest+
+RECOMMENDED COURSES: TCM Security: Practical Ethical Hacking
+------------------------------
+
+JOB ROLE: Digital Marketing Manager
+ID: 35
+REQUIRED SKILLS: PPC, Email Marketing, Content Strategy
+CERTIFICATIONS: HubSpot Content Marketing Certification
+RECOMMENDED COURSES: Google Digital Garage: Fundamentals of Marketing
+------------------------------
+
+JOB ROLE: Systems Administrator
+ID: 36
+REQUIRED SKILLS: Active Directory, Powershell, DNS
+CERTIFICATIONS: CompTIA Server+
+RECOMMENDED COURSES: Microsoft Learn: Windows Server Admin
+------------------------------
+
+JOB ROLE: BI (Business Intelligence) Developer
+ID: 37
+REQUIRED SKILLS: SSIS, Data Warehousing, DAX
+CERTIFICATIONS: Tableau Desktop Specialist
+RECOMMENDED COURSES: Data Warehousing for Beginners - Udemy
+------------------------------
+
+JOB ROLE: Big Data Architect
+ID: 38
+REQUIRED SKILLS: Kafka, Cassandra, Elasticsearch
+CERTIFICATIONS: Cloudera Certified Data Engineer
+RECOMMENDED COURSES: Big Data Specialization - Coursera
+------------------------------
+
+JOB ROLE: AR/VR Developer
+ID: 39
+REQUIRED SKILLS: C#, Oculus SDK, Spatial Audio
+CERTIFICATIONS: Unity Certified VR Developer
+RECOMMENDED COURSES: Circuit Stream: XR Development with Unity
+------------------------------
+
+JOB ROLE: Sales Engineer
+ID: 40
+REQUIRED SKILLS: Demos, Value Proposition, Technical Sales
+CERTIFICATIONS: PreSales Collective Certification
+RECOMMENDED COURSES: Mastering Technical Sales - Udemy
+------------------------------
+
+JOB ROLE: IT Auditor
+ID: 41
+REQUIRED SKILLS: Compliance, COBIT, Risk Assessment
+CERTIFICATIONS: CISA (Certified Information Systems Auditor)
+RECOMMENDED COURSES: ISACA: CISA Exam Prep
+------------------------------
+
+JOB ROLE: Cloud Database Engineer
+ID: 42
+REQUIRED SKILLS: DynamoDB, Cloud Spanner, Redis
+CERTIFICATIONS: AWS Certified Database Specialty
+RECOMMENDED COURSES: NoSQL Databases - Coursera
+------------------------------
+
+JOB ROLE: Ethical Hacker
+ID: 43
+REQUIRED SKILLS: Python Scripting, Kali Linux, Reconnaissance
+CERTIFICATIONS: eJPT (Junior Penetration Tester)
+RECOMMENDED COURSES: The Cyber Mentor: Ethical Hacking
+------------------------------
+
+JOB ROLE: Computer Vision Engineer
+ID: 44
+REQUIRED SKILLS: OpenCV, YOLO, Image Segmentation
+CERTIFICATIONS: DeepLearning.AI Computer Vision Specialization
+RECOMMENDED COURSES: PyImageSearch University
+------------------------------
+
+JOB ROLE: Operations Manager
+ID: 45
+REQUIRED SKILLS: Six Sigma, Lean, Supply Chain
+CERTIFICATIONS: Green Belt Lean Six Sigma
+RECOMMENDED COURSES: Operations Management - Coursera
+------------------------------
+
+JOB ROLE: Software Architect
+ID: 46
+REQUIRED SKILLS: Design Patterns, Clean Code, Domain Driven Design
+CERTIFICATIONS: IASA Certified IT Architect
+RECOMMENDED COURSES: Software Architecture & Design - Udacity
+------------------------------
+
+JOB ROLE: Support Engineer
+ID: 47
+REQUIRED SKILLS: Troubleshooting, SQL, Linux Commands
+CERTIFICATIONS: ITIL Foundation
+RECOMMENDED COURSES: Google IT Support Professional Certificate
+------------------------------
+
+JOB ROLE: Cloud Native Developer
+ID: 48
+REQUIRED SKILLS: Serverless, Lambda, Event-Driven Arch
+CERTIFICATIONS: AWS Certified Developer
+RECOMMENDED COURSES: AWS Lambda & Serverless - Udemy
+------------------------------
+
+JOB ROLE: Platform Engineer
+ID: 49
+REQUIRED SKILLS: Terraform, GitOps, ArgoCD
+CERTIFICATIONS: HashiCorp Certified: Terraform Associate
+RECOMMENDED COURSES: Platform Engineering Fundamentals
+------------------------------
+
+JOB ROLE: Robotics Engineer
+ID: 50
+REQUIRED SKILLS: ROS, Control Systems, Kinematics
+CERTIFICATIONS: Robotics Software Engineer Nanodegree
+RECOMMENDED COURSES: Modern Robotics - Coursera
+------------------------------
+
+JOB ROLE: Information Security Manager
+ID: 51
+REQUIRED SKILLS: ISO 27001, Business Continuity, Governance
+CERTIFICATIONS: CISM (Certified Information Security Manager)
+RECOMMENDED COURSES: CISM Exam Training - Udemy
+------------------------------
+
+JOB ROLE: Mobile App Developer (React Native)
+ID: 52
+REQUIRED SKILLS: JavaScript, Native Modules, Redux
+CERTIFICATIONS: Meta React Native Specialization
+RECOMMENDED COURSES: React Native: The Practical Guide - Udemy
+------------------------------
+
+JOB ROLE: Quantitative Analyst
+ID: 53
+REQUIRED SKILLS: C++, Stochastic Calculus, R
+CERTIFICATIONS: CQF (Certificate in Quantitative Finance)
+RECOMMENDED COURSES: Mathematical Methods for Quantitative Finance
+------------------------------
+
+JOB ROLE: Data Privacy Officer
+ID: 54
+REQUIRED SKILLS: GDPR, CCPA, Privacy Impact Assessment
+CERTIFICATIONS: CIPP/E (Certified Information Privacy Professional)
+RECOMMENDED COURSES: Privacy Law and Data Protection - Coursera
+------------------------------
+
+JOB ROLE: Unity Developer
+ID: 55
+REQUIRED SKILLS: C#, Shader Graph, Particle Systems
+CERTIFICATIONS: Unity Certified Associate
+RECOMMENDED COURSES: Unity Game Dev Courses
+------------------------------
+
+JOB ROLE: Customer Success Manager
+ID: 56
+REQUIRED SKILLS: Churn Analysis, Onboarding, Renewals
+CERTIFICATIONS: Certified Customer Success Manager (CCSM)
+RECOMMENDED COURSES: SuccessHacker: Customer Success Training
+------------------------------
+
+JOB ROLE: Frontend Architect
+ID: 57
+REQUIRED SKILLS: Micro-Frontends, Performance Optimization, Webpack
+CERTIFICATIONS: FrontEnd Masters: Senior Dev Path
+RECOMMENDED COURSES: Advanced Frontend Architecture
+------------------------------
+
+JOB ROLE: MLOps Engineer
+ID: 58
+REQUIRED SKILLS: Kubeflow, MLflow, DVC
+CERTIFICATIONS: Google Cloud Professional ML Engineer
+RECOMMENDED COURSES: DeepLearning.AI MLOps Specialization
+------------------------------
+
+JOB ROLE: Cyber Threat Intelligence Analyst
+ID: 59
+REQUIRED SKILLS: OSINT, Malware Analysis, STIX/TAXII
+CERTIFICATIONS: GCTI (GIAC Cyber Threat Intelligence)
+RECOMMENDED COURSES: SANS FOR578: Cyber Threat Intelligence
+------------------------------
+
+JOB ROLE: Site Manager
+ID: 60
+REQUIRED SKILLS: HSE Compliance, Resource Allocation, AutoCAD
+CERTIFICATIONS: NEBOSH IGC
+RECOMMENDED COURSES: Construction Management - edX
+------------------------------
+
+JOB ROLE: Content Strategist
+ID: 61
+REQUIRED SKILLS: CMS, Copywriting, Audience Segmentation
+CERTIFICATIONS: HubSpot Content Marketing
+RECOMMENDED COURSES: Content Strategy Specialization - Coursera
+------------------------------
+
+JOB ROLE: DevSecOps Engineer
+ID: 62
+REQUIRED SKILLS: Snyk, Prisma Cloud, Security Pipelines
+CERTIFICATIONS: Certified DevSecOps Professional (CDP)
+RECOMMENDED COURSES: DevSecOps: The Big Picture - Pluralsight
+------------------------------
+
+JOB ROLE: ERP Consultant
+ID: 63
+REQUIRED SKILLS: SAP S/4HANA, FICO, ABAP
+CERTIFICATIONS: SAP Certified Application Associate
+RECOMMENDED COURSES: openSAP: Free Software Training
+------------------------------
+
+JOB ROLE: Automation Engineer
+ID: 64
+REQUIRED SKILLS: PLC Programming, SCADA, HMI
+CERTIFICATIONS: ISA Certified Control Systems Technician
+RECOMMENDED COURSES: Industrial Automation - Udemy
+------------------------------
+
+JOB ROLE: Systems Engineer
+ID: 65
+REQUIRED SKILLS: Virtualization, PowerShell, SAN Storage
+CERTIFICATIONS: MCSE: Core Infrastructure
+RECOMMENDED COURSES: Microsoft Learn: Azure Administrator
+------------------------------
+
+JOB ROLE: Product Marketing Manager
+ID: 66
+REQUIRED SKILLS: GTM Strategy, Competitive Analysis, Messaging
+CERTIFICATIONS: PMM Alliance Core Certification
+RECOMMENDED COURSES: Product Marketing Foundations - LinkedIn
+------------------------------
+
+JOB ROLE: Financial Analyst
+ID: 67
+REQUIRED SKILLS: Excel Modeling, VBA, Financial Statements
+CERTIFICATIONS: CFA Level 1
+RECOMMENDED COURSES: Corporate Finance Institute: FMVA
+------------------------------
+
+JOB ROLE: Security Architect
+ID: 68
+REQUIRED SKILLS: Threat Modeling, SABSA, Zero Trust
+CERTIFICATIONS: CISSP-ISSAP
+RECOMMENDED COURSES: SANS SEC530: Defensible Security Architecture
+------------------------------
+
+JOB ROLE: Big Data Developer
+ID: 69
+REQUIRED SKILLS: Scala, Flink, Presto
+CERTIFICATIONS: CCP Data Engineer
+RECOMMENDED COURSES: Apache Flink Training
+------------------------------
+
+JOB ROLE: Motion Designer
+ID: 70
+REQUIRED SKILLS: After Effects, Cinema 4D, Typography
+CERTIFICATIONS: Adobe Certified Professional
+RECOMMENDED COURSES: School of Motion: Animation Bootcamp
+------------------------------
+
+JOB ROLE: Cloud Administrator
+ID: 71
+REQUIRED SKILLS: Resource Monitoring, Auto-scaling, Billing
+CERTIFICATIONS: AWS Certified SysOps Administrator
+RECOMMENDED COURSES: Cloud Academy: Cloud Administrator Path
+------------------------------
+
+JOB ROLE: Data Warehouse Architect
+ID: 72
+REQUIRED SKILLS: Snowflake, Redshift, Data Modeling
+CERTIFICATIONS: SnowPro Core Certification
+RECOMMENDED COURSES: Snowflake Essentials - Udemy
+------------------------------
+
+JOB ROLE: Web3 Engineer
+ID: 73
+REQUIRED SKILLS: Rust, Solana, NFT Minting
+CERTIFICATIONS: Certified Solana Developer
+RECOMMENDED COURSES: Learn Solana - Buildspace
+------------------------------
+
+JOB ROLE: Vulnerability Manager
+ID: 74
+REQUIRED SKILLS: Qualys, Nessus, Remediation
+CERTIFICATIONS: GEVA (GIAC Enterprise Vulnerability Assessor)
+RECOMMENDED COURSES: Cybrary: Vulnerability Management
+------------------------------
+
+JOB ROLE: Reliability Engineer
+ID: 75
+REQUIRED SKILLS: FMEA, Root Cause Analysis, MTBF
+CERTIFICATIONS: ASQ Certified Reliability Engineer
+RECOMMENDED COURSES: Reliability Engineering - Udemy
+------------------------------
+
+JOB ROLE: Digital Forensic Analyst
+ID: 76
+REQUIRED SKILLS: EnCase, FTK Imager, Chain of Custody
+CERTIFICATIONS: CHFI (Computer Hacking Forensic Investigator)
+RECOMMENDED COURSES: SANS FOR500: Windows Forensics
+------------------------------
+
+JOB ROLE: Performance Engineer
+ID: 77
+REQUIRED SKILLS: LoadRunner, AppDynamics, Profiling
+CERTIFICATIONS: Dynatrace Certified Associate
+RECOMMENDED COURSES: BlazeMeter University
+------------------------------
+
+JOB ROLE: Infrastructure as Code Engineer
+ID: 78
+REQUIRED SKILLS: Terraform, CloudFormation, Pulumi
+CERTIFICATIONS: HashiCorp Certified: Terraform Associate
+RECOMMENDED COURSES: Infrastructure as Code - Pluralsight
+------------------------------
+
+JOB ROLE: App Development Manager
+ID: 79
+REQUIRED SKILLS: SDLC, People Management, Resource Planning
+CERTIFICATIONS: Certified ScrumMaster (CSM)
+RECOMMENDED COURSES: Engineering Management - Coursera
+------------------------------
+
+JOB ROLE: Supply Chain Analyst
+ID: 80
+REQUIRED SKILLS: Inventory Management, ERP, Logistics
+CERTIFICATIONS: CSCP (Certified Supply Chain Professional)
+RECOMMENDED COURSES: Supply Chain Management Specialization
+------------------------------
+
+JOB ROLE: NoSQL Developer
+ID: 81
+REQUIRED SKILLS: Cassandra, CouchDB, Indexing
+CERTIFICATIONS: DataStax Certified Developer
+RECOMMENDED COURSES: MongoDB University
+------------------------------
+
+JOB ROLE: SOC Analyst
+ID: 82
+REQUIRED SKILLS: Incident Logging, Phishing Analysis, Log Analysis
+CERTIFICATIONS: Cisco Certified CyberOps Associate
+RECOMMENDED COURSES: TryHackMe: SOC Level 1
+------------------------------
+
+JOB ROLE: Release Manager
+ID: 83
+REQUIRED SKILLS: Change Management, Branching Strategies, Version Control
+CERTIFICATIONS: ITIL Release Control
+RECOMMENDED COURSES: Continuous Delivery - Coursera
+------------------------------
+
+JOB ROLE: Mobile Security Researcher
+ID: 84
+REQUIRED SKILLS: Reverse Engineering, Frida, ADB
+CERTIFICATIONS: GMOB (GIAC iOS and Android Security)
+RECOMMENDED COURSES: Mobexler: Mobile Security Training
+------------------------------
+
+JOB ROLE: Technical Program Manager
+ID: 85
+REQUIRED SKILLS: Dependency Tracking, Agile at Scale, Roadmapping
+CERTIFICATIONS: SAFe Agilist Certification
+RECOMMENDED COURSES: TPM Training - Coursera
+------------------------------
+
+JOB ROLE: UX Researcher
+ID: 86
+REQUIRED SKILLS: A/B Testing, Card Sorting, Usability Testing
+CERTIFICATIONS: NN/g UX Certification
+RECOMMENDED COURSES: UX Research - Interaction Design Foundation
+------------------------------
+
+JOB ROLE: Embedded Software Tester
+ID: 87
+REQUIRED SKILLS: HIL/SIL Testing, LabVIEW, Oscilloscopes
+CERTIFICATIONS: ISTQB Foundation Level - Embedded
+RECOMMENDED COURSES: Testing Embedded Systems - Udemy
+------------------------------
+
+JOB ROLE: Salesforce Developer
+ID: 88
+REQUIRED SKILLS: Apex, LWC, SOQL
+CERTIFICATIONS: Salesforce Platform Developer I
+RECOMMENDED COURSES: Trailhead: Developer Beginner
+------------------------------
+
+JOB ROLE: Big Data Analyst
+ID: 89
+REQUIRED SKILLS: Hive, Pig, MapReduce
+CERTIFICATIONS: HDP Certified Developer
+RECOMMENDED COURSES: Big Data Analytics with Spark
+------------------------------
+
+JOB ROLE: Security Consultant
+ID: 90
+REQUIRED SKILLS: Risk Management, Frameworks, Advisory
+CERTIFICATIONS: CISM
+RECOMMENDED COURSES: Cybersecurity for Business - Coursera
+------------------------------
+
+JOB ROLE: Computer Network Architect
+ID: 91
+REQUIRED SKILLS: SD-WAN, Topology Design, Fiber Optics
+CERTIFICATIONS: CCNP Enterprise
+RECOMMENDED COURSES: Advanced Network Design - Cisco
+------------------------------
+
+JOB ROLE: API Developer
+ID: 92
+REQUIRED SKILLS: REST, GraphQL, Swagger
+CERTIFICATIONS: Postman API Fundamentals Badge
+RECOMMENDED COURSES: Designing RESTful APIs - Udacity
+------------------------------
+
+JOB ROLE: Application Support Analyst
+ID: 93
+REQUIRED SKILLS: Log Monitoring, User Training, Patching
+CERTIFICATIONS: Microsoft Certified: Azure Support Engineer
+RECOMMENDED COURSES: IT Support Specialization - Coursera
+------------------------------
+
+JOB ROLE: Cloud Migration Architect
+ID: 94
+REQUIRED SKILLS: Lift and Shift, Refactoring, TCO Analysis
+CERTIFICATIONS: Google Cloud Professional Cloud Architect
+RECOMMENDED COURSES: Migrating to Google Cloud - Coursera
+------------------------------
+
+JOB ROLE: Quantitative Developer
+ID: 95
+REQUIRED SKILLS: Python, KDB+, Algorithmic Trading
+CERTIFICATIONS: CFA Investment Foundations
+RECOMMENDED COURSES: Python for Financial Analysis - Udemy
+------------------------------
+
+JOB ROLE: Systems Integration Engineer
+ID: 96
+REQUIRED SKILLS: Middleware, XML, JSON, SOAP
+CERTIFICATIONS: MuleSoft Certified Developer
+RECOMMENDED COURSES: Integration Architect Path - Pluralsight
+------------------------------
+
+JOB ROLE: Cloud Consultant
+ID: 97
+REQUIRED SKILLS: Client Interaction, Gap Analysis, Cloud Strategy
+CERTIFICATIONS: AWS Certified Cloud Practitioner
+RECOMMENDED COURSES: Cloud Computing Foundations - edX
+------------------------------
+
+JOB ROLE: Deep Learning Engineer
+ID: 98
+REQUIRED SKILLS: GANs, LSTMs, Autoencoders
+CERTIFICATIONS: DeepLearning.AI Specialization
+RECOMMENDED COURSES: Neural Networks and Deep Learning - Andrew Ng
+------------------------------
+
+JOB ROLE: Cyber Operations Specialist
+ID: 99
+REQUIRED SKILLS: Reverse Engineering, Incident Response, Linux
+CERTIFICATIONS: GCIH (GIAC Certified Incident Handler)
+RECOMMENDED COURSES: TryHackMe: Cyber Defense Path
+------------------------------
+
+JOB ROLE: Digital Transformation Consultant
+ID: 100
+REQUIRED SKILLS: Agile Transformation, Cloud Adoption, Change Management
+CERTIFICATIONS: Certified Digital Transformation Professional
+RECOMMENDED COURSES: Digital Transformation - BCG on Coursera
+------------------------------
+

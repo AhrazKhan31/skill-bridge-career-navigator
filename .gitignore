@@ -1,0 +1,41 @@
+# Ignore Python cache
+**/__pycache__/
+*.pyc
+
+# Ignore testing cache
+.pytest_cache/
+
+# SECRETS 
+.env
+my_agent/.env
+*.env
+application_default_credentials.json
+
+# PYTHON 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# VIRTUAL ENVIRONMENT 
+venv/
+env/
+.venv/
+
+# STREAMLIT 
+.streamlit/secrets.toml
+
+# GCP CREDENTIALS 
+*credentials*.json
+service_account*.json
+gcloud/
+
+# OS FILES 
+.DS_Store
+Thumbs.db
+
+# IDE 
+.vscode/
+.idea/
+*.swp
