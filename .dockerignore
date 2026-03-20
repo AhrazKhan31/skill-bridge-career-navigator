@@ -1,0 +1,29 @@
+# Secrets - never include these
+.env
+my_agent/.env
+*.env
+application_default_credentials.json
+*credentials*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
