@@ -227,6 +227,40 @@ All data is fully synthetic — no real personal or company information is inclu
 
 ---
 
+## 🧠 Key Learnings
+
+**1. Google ADK is Async — Streamlit is Not**
+ADK's `run_async()` is fully async but Streamlit runs synchronously. Bridging these two required `asyncio.run()` to wrap the entire agent pipeline. Without this, the agents would never execute.
+
+**2. Multi-Agent Pipelines Have a Different Mental Model**
+Instead of one big prompt, each agent has one job. Data flows between agents automatically via `output_key` → `session.state`. Getting the `InMemorySessionService` + `Runner` + `run_async` pattern right took significant debugging.
+
+**3. API Rate Limits Hit Fast with Sequential Agents**
+Running 4 Gemini API calls back-to-back on free tier quickly triggers HTTP 429 errors. Fixed by switching to `gemini-2.5-flash-lite` and adding retry logic. Always plan for quota limits in multi-agent systems.
+
+**4. Windows Credential Path Encoding Issues**
+The `gcloud` ADC credentials path got corrupted due to Unicode issues in the Windows username. Fixed by using `pathlib.Path.home()` instead of hardcoded string paths.
+
+**5. GCP Organization Policies Can Block Standard Workflows**
+Service account JSON key creation was blocked by an org policy, forcing a switch from Streamlit Cloud to Google Cloud Run — where credentials attach automatically via IAM. Actually a more secure approach.
+
+**6. Fallbacks Are Essential in Production AI Apps**
+The AI pipeline can fail due to rate limits, timeouts, or empty outputs. Without a fallback, users see a crash. Rule-based fallbacks ensure the app always returns something useful.
+
+**7. Environment Variable Ordering Matters**
+With two `.env` files (root and `my_agent/`), env vars must be loaded before any GCP imports. Always set credentials at the very top of your entry point.
+
+**8. Unstructured Data Works Better for Vertex AI Search**
+Loading structured CSV/JSONL into Discovery Engine caused ingestion issues. Converting to unstructured plain text solved it immediately. Vertex AI Search is optimized for unstructured text.
+
+**9. Cloud Run is Better Than Streamlit Cloud for GCP-Native Apps**
+Streamlit Cloud doesn't integrate well with Vertex AI credentials. Cloud Run runs natively on GCP, uses IAM automatically, scales to zero, and provides HTTPS out of the box.
+
+**10. ADK Agents Require Framework-Specific Testing Patterns**
+Standard unit testing doesn't work — `agent.call()` doesn't exist in ADK. Every test needs a full `InMemorySessionService` + `Runner` + `run_async` setup, just like production code.
+
+---
+
 ## 👤 Author
 
 **Ahraz Khan** — [GitHub](https://github.com/AhrazKhan31)
