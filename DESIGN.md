@@ -104,7 +104,7 @@ target_role ─────────────┘
 | Failure Point                       | Fallback Behavior                               |
 | ----------------------------------- | ----------------------------------------------- |
 | AI skill extraction returns empty   | Keyword matching against 30+ common tech skills |
-| AI roadmap generation returns empty | Template 4-week roadmap per skill gap           |
+| AI roadmap generation returns empty | Template 8-week roadmap per skill gap           |
 | Full AI pipeline unavailable        | Complete rule-based results shown with warning  |
 | PDF unreadable                      | Clear error message, user prompted to re-upload |
 
